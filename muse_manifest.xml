@@ -1,0 +1,28 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jameswebsite.ml" resolutions="1x" timestamp="1508532245326">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="310044052" ref="index"/>
+    <file name="contact-me.css" crc="3933722658" ref="contact-me"/>
+    <file name="coding.css" crc="430856740" ref="coding"/>
+    <file name="about-me.css" crc="477738358" ref="about-me"/>
+    <file name="index.css" crc="274740367" ref="index"/>
+    <file name="master_b-master.css" crc="84937700" ref="coding"/>
+    <file name="master_c-master.css" crc="422183173" ref="about-me"/>
+    <file name="master_d-master.css" crc="4136422724" ref="contact-me"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:coding:contact-me"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about-me:coding:contact-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:coding:contact-me"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:about-me:coding:contact-me"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-me:coding:contact-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:coding:contact-me"/>
+    <file name="require.js" crc="4157109226" ref="index:about-me:coding:contact-me"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:coding:about-me:contact-me"/>
+  </folder>
+  <folder name="images"/>
+  <file name="index.html" crc="51670146" seo="true" mt="1508531249622" redirect="true"/>
+  <file name="about-me.html" crc="3810374772" seo="true" mt="1508532181683" redirect="true"/>
+  <file name="coding.html" crc="3985000037" seo="true" mt="1508532160663" redirect="true"/>
+  <file name="contact-me.html" crc="461837335" seo="true" mt="1508532202772" redirect="true"/>
+</manifest>
